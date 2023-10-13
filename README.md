@@ -4,5 +4,5 @@ this indicator is used by an Advisor Expert bot that opens operations in Metatra
 
 the file lineaTendencia contains the trend market indicator, and the file ea_lineaTendencia contains the Expert Advisor code.
 
-Its recommended not to use this EA until you have optimized it.
-this is only an exercise in learning MQL4 programming, so it's at your own risk if use it with real money.
+It  is recommended not to use this EA until you have optimized it.
+this is only an exercise in learning MQ4 programming, so it's at your own risk if usyou e it with real money.
