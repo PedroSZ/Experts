@@ -6,3 +6,4 @@ the file lineaTendencia contains the trend market indicator, and the file ea_lin
 
 It  is recommended not to use this EA until you have optimized it.
 this is only an exercise in learning MQ4 programming, so it's at your own risk if usyou e it with real money.
+the trend line indicator is located in the main branch and the expert advisor is located in the master branch
